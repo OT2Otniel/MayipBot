@@ -7,6 +7,11 @@
 # Links
 - [Github](https://github.com/OT2Otniel/)
 
+# Setting bot
+- First Go to ```botConfig.js```
+    - Place your `Bot Token` and `Prefix`
+- And Run Your Bot
+
 # Host On Repl.it
 [Click Here to Host on Repl.it](https://repl.it/github/OT2Otniel/MayipBot)
 # Host On Glitch 

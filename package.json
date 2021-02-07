@@ -1,0 +1,28 @@
+{
+  "name": "MayipBot",
+  "version": "1.0.0",
+  "description": "Mayip bot created with quick.eco package in discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "OT2Otniel",
+  "keywords": [
+    "discord",
+    "Easy",
+    "Economy",
+    "bot",
+    "discord.js",
+    "discordjs"
+  ],
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "quick.eco": "^2.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/OT2Otniel/MayipBot"
+  }
+}

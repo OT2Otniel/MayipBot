@@ -21,3 +21,7 @@
 [![Repl.it](https://repl.it/badge/github/username/replname)](https://repl.it/github/OT2Otniel/MayipBot)
 # Host On Glitch 
 <a href="https://glitch.com/edit/#!/import/git?url=https://github.com/OT2Otniel/MayipBot/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Glitch_%28company%29_logo.svg/330px-Glitch_%28company%29_logo.svg.png" alt="glitch" height="40" style="vertical-align:top; margin:4px"> </a>
+
+## Repository Stats
+[![GitHub forks](https://img.shields.io/github/forks/OT2Otniel/MayipBot?label=Fork&style=social)](https://github.com/OT2Otniel/MayipBot/)
+[![GitHub watchers](https://img.shields.io/github/watchers/OT2Otniel/MayipBot?label=Watch&style=social)](https://github.com/OT2Otniel/MayipBot)

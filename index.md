@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome to MayipBot
+-----------------
+### MayipBot's creator is Otniel#2551
 
-You can use the [editor on GitHub](https://github.com/OT2Otniel/MayipBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## This is the developer status on discord
+-----------------------------
+[![Otniel#2551](https://discord.c99.nl/widget/theme-3/778802442942677064.png)](https://discord.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## View Otniel On Github!
+---------------------------
+- [Click Here](https://github.com/OT2Otniel/)
 
-### Markdown
+## Links
+-----------------------------------
+- [Github](https://github.com/OT2Otniel)
+- [Mayip Support Server](https://discord.gg/UkRXaJFndd)
+- [Invite Mayip!](https://discord.com/api/oauth2/authorize?client_id=805034490611236885&permissions=388288&scope=bot)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Setting Bot
+- First Go to `botConfig.js`
+- Place Your Bot Token and Prefix
+- 
 ```
+module.exports = {
+    token: "YOUR BOT TOKEN",
+    prefix: "YOUR BOT PREFIX",
+    admins: [
+        "778802442942677064"
+],
+    debug: true,
+    countChannel: "countChannelID"
+};
+```
+## Mayip Support Server
+[![Discord](https://img.shields.io/discord/798383473550950431?color=red&label=Discord&logo=discord&logoColor=blue&style=for-the-badge)](https://discord.gg/UkRXaJFndd)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Host On Repl.it
+[![Repl.it](https://repl.it/badge/github/username/replname)](https://repl.it/github/OT2Otniel/MayipBot)
+# Host On Glitch 
+<a href="https://glitch.com/edit/#!/import/git?url=https://github.com/OT2Otniel/MayipBot/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Glitch_%28company%29_logo.svg/330px-Glitch_%28company%29_logo.svg.png" alt="glitch" height="40" style="vertical-align:top; margin:4px"> </a>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OT2Otniel/MayipBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Repository Stats
+[![GitHub forks](https://img.shields.io/github/forks/OT2Otniel/MayipBot?label=Fork&style=social)](https://github.com/OT2Otniel/MayipBot/)
+[![GitHub watchers](https://img.shields.io/github/watchers/OT2Otniel/MayipBot?label=Watch&style=social)](https://github.com/OT2Otniel/MayipBot)

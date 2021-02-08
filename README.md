@@ -10,7 +10,7 @@
 - [Support Server](https://discord.gg/UkRXaJFndd)
 
 # Mayip Support Server
-![Discord](https://img.shields.io/discord/798383473550950431?color=red&label=Discord&logo=discord&logoColor=blue&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/798383473550950431?color=red&label=Discord&logo=discord&logoColor=blue&style=for-the-badge)](https://discord.gg/UkRXaJFndd)
 
 # Setting bot
 - First Go to ```botConfig.js```

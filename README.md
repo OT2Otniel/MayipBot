@@ -18,6 +18,6 @@
 - And Run Your Bot
 
 # Host On Repl.it
-[Click Here to Host on Repl.it](https://repl.it/github/OT2Otniel/MayipBot)
+[![Repl.it](https://repl.it/badge/github/username/replname)](https://repl.it/github/OT2Otniel/MayipBot)
 # Host On Glitch 
-[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/OT2Otniel/MayipBot/)
+<a href="https://glitch.com/edit/#!/import/git?url=https://github.com/OT2Otniel/MayipBot/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Glitch_%28company%29_logo.svg/330px-Glitch_%28company%29_logo.svg.png" alt="glitch" height="40" style="vertical-align:top; margin:4px"> </a>

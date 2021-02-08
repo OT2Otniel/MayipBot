@@ -6,6 +6,11 @@
 
 # Links
 - [Github](https://github.com/OT2Otniel/)
+- [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=805034490611236885&permissions=388288&scope=bot)
+- [Support Server](https://discord.gg/UkRXaJFndd)
+
+# Mayip Support Server
+![Discord](https://img.shields.io/discord/798383473550950431?color=red&label=Discord&logo=discord&logoColor=blue&style=for-the-badge)
 
 # Setting bot
 - First Go to ```botConfig.js```

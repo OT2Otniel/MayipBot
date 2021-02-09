@@ -25,3 +25,6 @@
 ## Repository Stats
 [![GitHub forks](https://img.shields.io/github/forks/OT2Otniel/MayipBot?label=Fork&style=social)](https://github.com/OT2Otniel/MayipBot/)
 [![GitHub watchers](https://img.shields.io/github/watchers/OT2Otniel/MayipBot?label=Watch&style=social)](https://github.com/OT2Otniel/MayipBot)
+
+## Repository Website
+[![MayipBot](https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fot2otniel.github.io%2FMayipBot%2F)](https://ot2otniel.github.io/MayipBot/)
